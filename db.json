@@ -1,29 +1,25 @@
-
-      {
-        postId: 1,
-        id: 1,
-        eventName: "3 Idiots",
-        eventType: "Movie",
-        location: "pune",
-        datetime: "18 April Saturday 10.00 am",
-        price: "300rs"
-      },
-      {
-        postId: 1,
-        id: 2,
-        eventName: "Cricket tournament",
-        eventType: "Tournaments",
-        location: "pune",
-        datetime: "18 April Saturday 10.00 am",
-        price: "200rs"
-      },
-      {
-        postId: 1,
-        id: 3,
-        eventName: "Asrunchi zali phule",
-        eventType: "Drama",
-        location: "pune",
-        datetime: "18 April Saturday 10.00 am",
-        price: "200rs"
-      }
-    
+[{
+	"postId": 1,
+	"id": 1,
+	"eventName": "3 Idiots",
+	"eventType": "Movie",
+	"location": "pune",
+	"datetime": "18 April Saturday 10.00 am",
+	"price": "300rs"
+}, {
+	"postId": 1,
+	"id": 1,
+	"eventName": "Cricket",
+	"eventType": "Tournamanet",
+	"location": "pune",
+	"datetime": "18 April Saturday 10.00 am",
+	"price": "300rs"
+}, {
+	"postId": 1,
+	"id": 1,
+	"eventName": "Ashrunchi zali phule",
+	"eventType": "Drama",
+	"location": "pune",
+	"datetime": "18 April Saturday 10.00 am",
+	"price": "300rs"
+}]
